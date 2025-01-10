@@ -21,6 +21,7 @@ A smart robot car that autonomously avoids obstacles using an ultrasonic sensor.
 - 220Ω Resistor (for LED)
 - Breadboard
 - Jumper Wires
+- External Power Source (5V Battery Preferably)
 - Robot Car Chassis (with wheels)
 
 ## Pin Configuration
